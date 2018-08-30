@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MVCApp/bin/roslyn
+/MVCApp/bin
+/MVCApp/obj
+/MVCApp/.vs
+/MVCApp/obj/Debug
